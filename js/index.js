@@ -16,6 +16,8 @@ function hide_allElement() {
 	});
 }
 $(document).ready(function() {
+	$("#page_one").hide();
+    $("#one_font").hide();
     music_array[0] = document.getElementById("music01");
     music_array[1] = document.getElementById("music02");
     music_array[2] = document.getElementById("music03");
