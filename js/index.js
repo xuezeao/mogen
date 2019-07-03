@@ -6,6 +6,7 @@ var music_array = new Array();
 function musicStop() {
     var i = 0;
     while (i < 10) {
+		music_array[i].currentTime=0;
         music_array[i].pause();
         i++;
     }
@@ -15,7 +16,15 @@ function hide_allElement() {
 		$(this).css("display", "none");
 	});
 }
+
+window.onload = function() {
+	$("#wait_page").hide();
+	$("#wait_gif").hide();
+	showPage_First();
+}
 $(document).ready(function() {
+	$("#wait_page").show();
+	$("#wait_gif").show();
 	$("#page_one").hide();
     $("#one_font").hide();
     music_array[0] = document.getElementById("music01");
@@ -27,9 +36,7 @@ $(document).ready(function() {
     music_array[6] = document.getElementById("music06");
     music_array[7] = document.getElementById("music07");
     music_array[8] = document.getElementById("music08");
-    music_array[9] = document.getElementById("music09");
-
-    showPage_First();
+    music_array[9] = document.getElementById("music09"); 
 });
 
 function showPage_First() {
