@@ -1,0 +1,358 @@
+
+#page_one {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/cover01.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#one_font {
+   width: 640px;
+   height: 1008px;
+    background-image: url("../goal_image/cover02.png");
+    background-size: 100% 100%;
+    display: none;
+}
+
+#page_two {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/introduce01.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+
+#introduce02 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/introduce02.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+
+#introduce03 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/introduce03.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+#introduce04 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/introduce04.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+
+#page_three {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/service01.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+#service04 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/service04.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+#service03 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/service03.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+#service02 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/service02.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+
+#page_four {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design01.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+#design02 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design02.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+#design03 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design03.png");
+    background-size: 100% 100%;
+    position: absolute;
+    display: none;
+}
+#design04 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design04.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#design05 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design05.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#design06 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design06.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#design08 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design08.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#design10 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design10.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#design11 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design11.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#design13 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design13.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#design15 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design14.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#design15 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design15.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#design16 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/design16.png");
+    background-size: 100% 100%;
+    display: none;
+}
+
+#page_five {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/brand01.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#brand02 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/brand02.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#brand03 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/brand03.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#brand04 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/brand04.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#brand05 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/brand05.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#brand06 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/brand06.png");
+    background-size: 100% 100%;
+    display: none;
+}
+
+#page_six {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/award01.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#award02 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/award02.png");
+    background-size: 100% 100%;
+    display: none;
+}
+
+#page_seven {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/cooperation01.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#cooperation02 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/cooperation02.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#cooperation03 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/cooperation03.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#cooperation04 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/cooperation04.png");
+    background-size: 100% 100%;
+    display: none;
+}
+
+#iteminfo01 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo01.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo02 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo02.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo03 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo03.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo04 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo04.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo05 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo05.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo06 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo06.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo07 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo07.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo08 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo08.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo09 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo09.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo10 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo10.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo11 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo11.png");
+    background-size: 100% 100%;
+    display: none;
+}
+#iteminfo12 {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/iteminfo12.png");
+    background-size: 100% 100%;
+    display: none;
+}
+
+#page_nine {
+    width: 640px;
+    height: 1008px;
+    background-image: url("../goal_image/endcover.png");
+    background-size: 100% 100%;
+    display: none;
+}

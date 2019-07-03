@@ -1,0 +1,546 @@
+@media screen and (min-width:321px) and (max-width:750px ) {
+}
+
+html{font-size: 87.5%;}
+
+*{
+	touch-action: pan-y;
+}
+
+#page_one {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/cover01.png");
+	background-size: 100% 100%;
+    display: none;
+	overflow: hidden;
+	background-repeat:no-repeat;
+}
+#one_font {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/cover02.png");
+	background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+}
+
+#page_two {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/introduce01.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    position: absolute;
+    display: none;
+}
+
+#introduce02 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/introduce02.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;	
+    position: absolute;
+    display: none;
+}
+
+#introduce03 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/introduce03.png");
+    background-size: 26.8rem 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    position: absolute;
+    display: none;
+}
+#introduce04 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/introduce04.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;	
+    position: absolute;
+    display: none;
+}
+
+#page_three {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/service01.png");
+    background-size: 100% 100%;
+    position: absolute;
+	background-repeat:no-repeat;	
+	overflow: hidden;
+    display: none;
+}
+#service04 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/service04.png");
+    background-size: 100% 100%;
+    position: absolute;
+	background-repeat:no-repeat;
+	overflow: hidden;	
+    display: none;
+}
+#service03 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/service03.png");
+    background-size: 100% 100%;
+    position: absolute;
+	background-repeat:no-repeat;
+	overflow: hidden;	
+    display: none;
+}
+#service02 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/service02.png");
+    background-size: 100% 100%;
+    position: absolute;
+	background-repeat:no-repeat;	
+	overflow: hidden;
+    display: none;
+}
+
+#page_four {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design01.png");
+    background-size: 100% 100%;
+    position: absolute;
+	overflow: hidden;
+	background-repeat:no-repeat;	
+    display: none;
+}
+#design02 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design02.png");
+    background-size: 100% 100%;
+    position: absolute;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+}
+#design03 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design03.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+    position: absolute;
+	background-repeat:no-repeat;
+    display: none;
+}
+#design04 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design04.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+    position: absolute;
+	background-repeat:no-repeat;
+    display: none;
+}
+#design05 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design05.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+    position: absolute;
+	background-repeat:no-repeat;
+    display: none;
+}
+#design06 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design06.png");
+    background-size: 100% 100%;
+    position: absolute;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    display: none;
+}
+#design07 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design07.png");
+    background-size: 100% 100%;
+    position: absolute;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+}
+#design08 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design08.png");
+    background-size: 100% 100%;
+    position: absolute;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    display: none;
+}
+#design09 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design09.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    display: none;
+    position: absolute;
+}
+#design10 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design10.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    display: none;
+    position: absolute;
+}
+#design11 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design11.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+    position: absolute;
+}
+#design12 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design12.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+    display: none;
+	overflow: hidden;
+    position: absolute;
+}
+#design13 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design13.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    display: none;
+    position: absolute;
+}
+#design14 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design14.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+    position: absolute;
+}
+#design15 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design15.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+    position: absolute;
+}
+#design16 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/design16.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    display: none;
+    position: absolute;
+}
+
+#page_five {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/brand01.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    display: none;
+    position: absolute;
+
+}
+#brand02 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/brand02.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    display: none;
+
+}
+#brand03 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/brand03.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+}
+#brand04 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/brand04.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+}
+#brand05 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/brand05.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+}
+#brand06 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/brand06.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+}
+
+#page_six {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/award01.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+    position: absolute;
+}
+#award02 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/award02.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+    position: absolute;
+}
+
+#page_seven {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/cooperation01.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    position: absolute;
+    display: none;
+}
+#cooperation02 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/cooperation02.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+}
+#cooperation03 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/cooperation03.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+}
+#cooperation04 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/cooperation04.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    display: none;
+}
+
+#iteminfo01 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo01.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    position: absolute;
+    display: none;
+}
+#iteminfo02 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo02.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    position: absolute;
+    display: none;
+}
+#iteminfo03 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo03.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    position: absolute;
+    display: none;
+}
+#iteminfo04 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo04.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    position: absolute;
+    display: none;
+}
+#iteminfo05 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo05.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    background-position: center;
+    position: absolute;
+    display: none;
+}
+#iteminfo06 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo06.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat:no-repeat;
+    background-position: center;
+    position: absolute;
+    display: none;
+}
+#iteminfo07 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo07.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+    position: absolute;
+	overflow: hidden;
+    background-position: center;
+    display: none;
+}
+#iteminfo08 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo08.png");
+    background-size: 100% 100%;
+	overflow: hidden;
+    position: absolute;
+	background-repeat:no-repeat;
+    background-position: center;
+    display: none;
+}
+#iteminfo09 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo09.png");
+    background-size: 100% 100%;
+    position: absolute;
+    background-position: center;
+	overflow: hidden;
+    display: none;
+	background-repeat:no-repeat;
+}
+#iteminfo10 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo10.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+    position: absolute;
+    background-position: center;
+	overflow: hidden;
+    display: none;
+}
+#iteminfo11 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo11.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+    background-position: center;
+	overflow: hidden;
+    position: absolute;
+    display: none;
+}
+#iteminfo12 {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/iteminfo12.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+    position: absolute;
+    background-position: center;
+	overflow: hidden;
+    display: none;
+}
+
+#page_nine {
+    width: 100%;
+    height: 100%;
+    background-image: url("../goal_image/endcover.png");
+    background-size: 100% 100%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    position: absolute;
+    background-position: center;
+    display: none;
+}
+#page_eight {
+    width: 100%;
+    height: 100%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+    display: none;
+}
+::-webkit-scrollbar {
+    width: 0;
+    height: 1px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    -webkit-font-smoothing: inset 0 0 5px rgba(0,0,0,.2);
+    background: rgba(0,0,0,.2);
+}
