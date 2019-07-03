@@ -17,11 +17,11 @@ function hide_allElement() {
 	});
 }
 
-window.onload = function() {
-	$("#wait_page").hide();
-	$("#wait_gif").hide();
-	showPage_First();
-}
+//window.onload = function() {
+//	$("#wait_page").hide();
+//	$("#wait_gif").hide();
+//	showPage_First();
+//}
 $(document).ready(function() {
 	$("#wait_page").show();
 	$("#wait_gif").show();
@@ -37,6 +37,8 @@ $(document).ready(function() {
     music_array[7] = document.getElementById("music07");
     music_array[8] = document.getElementById("music08");
     music_array[9] = document.getElementById("music09"); 
+	
+	$("#wait_gif").delay(5000).hide(showPage_First());
 });
 
 function showPage_First() {
